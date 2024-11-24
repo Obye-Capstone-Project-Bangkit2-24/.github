@@ -1,10 +1,11 @@
-# MamMates
+# OBYE
 
-Food Waste Reduction App Based on Machine Learning Technology
+Smart Obesity Detection and Lifestyle Control Assistant
 
 ## Team ID
 
-CH2-PS297
+C242-PS174
+
 
 ## Team Member
 
